@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritika Rana</h1>
 <h3 align="center">A passionate frontend developer & UI/UX Designer</h3>
 
-- 📫 How to reach me **ranaritu414@gmail.com**
-
+- 📫 mail me @ **ranaritu414@gmail.com**
+-  ping me @Perfectritika
 - ⚡ Hobby **travelling**
 
 <h3 align="left">Connect with me:</h3>
