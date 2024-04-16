@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika Rana</h1>
 <h3 align="center">A passionate frontend developer & UI/UX Designer</h3>
 
-- 📫 mail me @ **ranaritu414@gmail.com**
+- 📫 mail me @ **ritikaranarac@gmail.com**
 -  Telegram @Perfectritika
 - ⚡ Hobby **travelling**
 
